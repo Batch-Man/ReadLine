@@ -10,3 +10,4 @@ AUTHOR:	**Kvc**
 
 ​	Examples: 		ReadLine "Demo.txt" 5
 
+Article- https://batch-man.com/manipulate-files-line-in-batch/
